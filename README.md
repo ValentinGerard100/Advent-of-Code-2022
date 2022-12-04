@@ -19,5 +19,10 @@ I used again dictonary.
 I had a problem with Char: '' and String : "" which are not the same type -> I used  only() to convert a String to a Char.
 I understood that we cannot index an array with a float despite it is 1.0 , 2.0 , ect...
 
+Day 4:
+Did the 4th
+I made use of mathematical operator of julia on set (inclusion and intersection)
+It is very efficient so I solved the problem in few lines
+I enjoy more and more function like filter or map
 
 
