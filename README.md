@@ -30,3 +30,11 @@ Did the 5th but I forgot to push it
 I used array to stock the columns, the function push! and pop! 
 To do the second part I just put a I just added a stack that I filled and then emptied.
 This challenge was cool the main difficuty was to extract the data 
+
+Day 6:
+Did the 6th 
+I used sets to solve the problem in few lines
+In julia the function Set(array) return a set made up of all the DISTINCT elements of the array
+With that I had to find the first Set extract from the data with the correct length
+this day is the one I've finished the fastest so far , I learn how to deal with set
+
