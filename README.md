@@ -25,4 +25,8 @@ I made use of mathematical operator of julia on set (inclusion and intersection)
 It is very efficient so I solved the problem in few lines
 I enjoy more and more function like filter or map
 
-
+Day 5:
+Did the 5th but I forgot to push it
+I used array to stock the columns, the function push! and pop! 
+To do the second part I just put a I just added a stack that I filled and then emptied.
+This challenge was cool the main difficuty was to extract the data 
