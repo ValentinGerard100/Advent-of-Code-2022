@@ -36,5 +36,15 @@ Did the 6th
 I used sets to solve the problem in few lines
 In julia the function Set(array) return a set made up of all the DISTINCT elements of the array
 With that I had to find the first Set extract from the data with the correct length
-this day is the one I've finished the fastest so far , I learn how to deal with set
+this day is the one I've finished the fastest so far , I learn how to deal with sets
 
+Day 7:
+did the 7th but I forgot to push it
+I used doubled linked Tree 
+I learn how to make structure in julia it will be usefull
+first I had an other idea : stock the resporitory in the array which corresponded to his deep and then compute the size from the deepest level to the shallowest level, I spent time on it but i realised that the fact that two resporitory can have the same name was a big problem
+
+Day 8:
+did the 8th
+I think that the structure that I choose for the first part was bad I had to start again for the second one
+I learn nothing special about Julia
