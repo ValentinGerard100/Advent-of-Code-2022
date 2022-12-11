@@ -48,3 +48,12 @@ Day 8:
 did the 8th
 I think that the structure that I choose for the first part was bad I had to start again for the second one
 I learn nothing special about Julia
+
+Day 9:
+first part did the 10th the second part is comming
+I used structure to remember positions of head and tail and the previous position of head, each stepI check if tail touch the head, if not the tail take the previous position of the head.
+However this don't work for the second part....
+
+Day 10:
+did the 11th because the world cup was amazing this week end
+it was not a very difficult problem , the only difficulty was to respect the order of the action into a cycle
