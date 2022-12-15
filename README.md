@@ -57,3 +57,8 @@ However this don't work for the second part....
 Day 10:
 did the 11th because the world cup was amazing this week end
 it was not a very difficult problem , the only difficulty was to respect the order of the action into a cycle
+
+Day 11: 
+first part did the 14th and the second the 15th
+the first part was easy
+for the second, first i decided to represent a big number by an array which contents the modulo by each monkey divison criter but then i understood  that  we need to know only the modulo of big number by the product of each monkey division criter
