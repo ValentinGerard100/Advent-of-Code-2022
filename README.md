@@ -72,3 +72,8 @@ did the 19th I got a little late :(
 I create the array for that i used a stack and when there is "[" I push an empty array on the stack , when there is a number i push this number on the last array on the stack , and there is a "]" i pushed the last array on the stack on the penultimate array of the stack
 Then I used recursivity to solve the 1st part
 for the second part i wanted to use the fusion sort but i had a problem with the fusion so i did a insertion sort
+
+Day 14 :
+I used a dictionnary to know if in a position there is a rock a sable
+for the second part i just change the movment function : if the deep of the position is one up to the floor , i stop the movment .
+I didn't learn something new with julia
