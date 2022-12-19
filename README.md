@@ -62,3 +62,13 @@ Day 11:
 first part did the 14th and the second the 15th
 the first part was easy
 for the second, first i decided to represent a big number by an array which contents the modulo by each monkey divison criter but then i understood  that  we need to know only the modulo of big number by the product of each monkey division criter
+
+
+Day 12:
+
+
+Day 13 :
+did the 19th I got a little late :(
+I create the array for that i used a stack and when there is "[" I push an empty array on the stack , when there is a number i push this number on the last array on the stack , and there is a "]" i pushed the last array on the stack on the penultimate array of the stack
+Then I used recursivity to solve the 1st part
+for the second part i wanted to use the fusion sort but i had a problem with the fusion so i did a insertion sort
