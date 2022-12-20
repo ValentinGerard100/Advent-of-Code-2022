@@ -74,6 +74,14 @@ Then I used recursivity to solve the 1st part
 for the second part i wanted to use the fusion sort but i had a problem with the fusion so i did a insertion sort
 
 Day 14 :
+did the 19th
 I used a dictionnary to know if in a position there is a rock a sable
 for the second part i just change the movment function : if the deep of the position is one up to the floor , i stop the movment .
 I didn't learn something new with julia
+
+Day 20:
+did the 20th
+I used a double linked list to deal with circular array
+for the part2 i only store the rest of the eucledian divison of the product of the value and the big number by the length of the array minus 1
+it was a great solution to deal with big number but i wasted time because at the beginning I was doing eucledian division by length instead of length minus 1
+
