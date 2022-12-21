@@ -79,6 +79,10 @@ I used a dictionnary to know if in a position there is a rock a sable
 for the second part i just change the movment function : if the deep of the position is one up to the floor , i stop the movment .
 I didn't learn something new with julia
 
+Day 15 :
+did the 21th
+the first part was easy I looked only on the raw y=2000000 but for the second part I spent lot of times : first i did brutforce but i was a very bad solution so i decided to doing somethings with the frontiers of the sphere of manathan because the the point we are looking for must be between two frontieres that are only 1 away
+
 Day 20:
 did the 20th
 I used a double linked list to deal with circular array
