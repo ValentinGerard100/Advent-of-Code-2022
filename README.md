@@ -85,3 +85,8 @@ I used a double linked list to deal with circular array
 for the part2 i only store the rest of the eucledian divison of the product of the value and the big number by the length of the array minus 1
 it was a great solution to deal with big number but i wasted time because at the beginning I was doing eucledian division by length instead of length minus 1
 
+Day 21
+did the 21th
+I used a dictonnary to store the data like a tree and then i used recurssion to compute the value of root
+for the second part i use first the brutforce but it didn't work so i used symbolic variable to have an equation on the root and then i solve it
+i learnt how to solve equation and how use symbolic variables in julia with SymPy 
