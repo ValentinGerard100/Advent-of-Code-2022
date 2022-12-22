@@ -94,3 +94,10 @@ did the 21th
 I used a dictonnary to store the data like a tree and then i used recurssion to compute the value of root
 for the second part i use first the brutforce but it didn't work so i used symbolic variable to have an equation on the root and then i solve it
 i learnt how to solve equation and how use symbolic variables in julia with SymPy 
+
+Day 22
+did the 22th
+I spent a day to do it but i enjoyed this problem
+i used a dictonnary to represente the map
+then i add "portal" at the borders i created a dictonnary to store the portal , with the given key (x_entry, y_entry, direction_entry) it returns (x_exit, y_exit, direction_exit) .
+my solution works well with all type of input for part 1 but only with input of the same shape (to fold the cube) for part 2 
