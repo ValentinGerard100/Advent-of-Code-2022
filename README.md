@@ -101,3 +101,9 @@ I spent a day to do it but i enjoyed this problem
 i used a dictonnary to represente the map
 then i add "portal" at the borders i created a dictonnary to store the portal , with the given key (x_entry, y_entry, direction_entry) it returns (x_exit, y_exit, direction_exit) .
 my solution works well with all type of input for part 1 but only with input of the same shape (to fold the cube) for part 2 
+
+
+Day 23
+did the 23th
+I store in a dictonnary the postion in key and the value is wish of the next position , then in a other dictionnary i  have the wish position in key and the value is the number of elves which want to go to this position.
+for the second part i only put for each tour a counter and i look if the counter is equal to the number of elves
