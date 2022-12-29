@@ -107,3 +107,9 @@ Day 23
 did the 23th
 I store in a dictonnary the postion in key and the value is wish of the next position , then in a other dictionnary i  have the wish position in key and the value is the number of elves which want to go to this position.
 for the second part i only put for each tour a counter and i look if the counter is equal to the number of elves
+
+
+Day 25
+did the 29
+I did 2 function : ToDecimal and ToSNAFU 
+To compute the SNAFU representation of a number I convert it in base 5 then for each power of 5 I if it's 5,4 or 3 I increment by 1 the next power and I change the current number by 0,-or=
