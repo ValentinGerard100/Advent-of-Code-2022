@@ -64,9 +64,6 @@ the first part was easy
 for the second, first i decided to represent a big number by an array which contents the modulo by each monkey divison criter but then i understood  that  we need to know only the modulo of big number by the product of each monkey division criter
 
 
-Day 12:
-
-
 Day 13 :
 did the 19th I got a little late :(
 I create the array for that i used a stack and when there is "[" I push an empty array on the stack , when there is a number i push this number on the last array on the stack , and there is a "]" i pushed the last array on the stack on the penultimate array of the stack
@@ -82,6 +79,10 @@ I didn't learn something new with julia
 Day 15 :
 did the 21th
 the first part was easy I looked only on the raw y=2000000 but for the second part I spent lot of times : first i did brutforce but i was a very bad solution so i decided to doing somethings with the frontiers of the sphere of manathan because the the point we are looking for must be between two frontieres that are only 1 away
+
+Day 17 :
+did the 1st january
+I passed the first part, for the second I found the cycle but I don't know why the answer is bad so I stopped getting upset about it
 
 Day 20:
 did the 20th
@@ -113,3 +114,12 @@ Day 25
 did the 29
 I did 2 function : ToDecimal and ToSNAFU 
 To compute the SNAFU representation of a number I convert it in base 5 then for each power of 5 I if it's 5,4 or 3 I increment by 1 the next power and I change the current number by 0,-or=
+
+
+FINAL:
+I loved this experience, today I think I have a good command of Julia even if my code is not as clean as possible: for example, I have almost never typed my structures.
+I learned a lot and I think I coded better and faster than before because I waste a lot less time debugging my code.
+
+I found the challenges cool but I regret not having time to finish every day because I also have to revise the upcoming exams
+
+I will surely come back to finish the work during the summer holidays
