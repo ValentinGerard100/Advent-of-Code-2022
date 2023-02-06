@@ -1,7 +1,11 @@
 Welcome to my Advent of Code 2022 repository, where I am documenting my journey of learning Julia while solving coding challenges.
+
 Day 1
+
 I completed the first challenge on December 1st but only created this repository on December 3rd. This was my first program in Julia, so it took me some time to understand how to open and parse the input. I learned that in Julia, we can use functions on arrays like sum or map, just like in JavaScript. I also discovered that functions with a ! are "in place functions".
+
 Day 2
+
 I completed the second challenge on December 2nd but, once again, created this repository on December 3rd. For this challenge, I used dictionaries to solve the problem and found it to be a straightforward solution.
 Day 3
 I completed the third challenge on December 3rd. For this challenge, I used dictionaries once again. I encountered a problem with the difference between the Char: '' and String : "" data types, but was able to resolve it by using the only() function to convert a string to a character. I also learned that we cannot index an array with a float, despite it being 1.0, 2.0, etc.
